@@ -78,7 +78,7 @@ h1 {
   .egg {
     position: fixed;
     bottom: -110px;
-    left: 55%;
+    left: 60%;
     width: 500px; 
     height: auto; 
   }
@@ -93,21 +93,21 @@ h1 {
   .chomp {
     position: fixed;
     bottom: 50px;
-    left: 50%;
+    left: 55%;
     width: 300px; 
     height: auto; 
   }
   .idle {
     position: fixed;
     bottom: 140px;
-    left: 50%;
+    left: 55%;
     width: 250px; 
     height: auto; 
   }
   .evil {
     position: fixed;
     bottom: 140px;
-    left: 55%;
+    left: 60%;
     width: 250px; 
     height: auto; 
   }
