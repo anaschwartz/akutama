@@ -78,7 +78,7 @@ h1 {
   .egg {
     position: fixed;
     bottom: -110px;
-    left: 40%;
+    left: 55%;
     width: 500px; 
     height: auto; 
   }
@@ -86,7 +86,7 @@ h1 {
   .poof {
     position: fixed;
     bottom: 20px;
-    left: 52%;
+    left: 60%;
     width: 360px; 
     height: auto; 
   }
@@ -100,7 +100,7 @@ h1 {
   .idle {
     position: fixed;
     bottom: 140px;
-    left: 58%;
+    left: 62%;
     width: 250px; 
     height: auto; 
   }
@@ -132,7 +132,7 @@ h1 {
   
   .walking {
     position: fixed;
-    top: 500px; 
+    top: 600px; 
     right: 50px; 
     width: 1000px; 
     height: auto;
