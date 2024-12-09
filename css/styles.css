@@ -93,14 +93,14 @@ h1 {
   .chomp {
     position: fixed;
     bottom: 50px;
-    left: 55%;
+    left: 50%;
     width: 300px; 
     height: auto; 
   }
   .idle {
     position: fixed;
     bottom: 140px;
-    left: 58%;
+    left: 50%;
     width: 250px; 
     height: auto; 
   }
