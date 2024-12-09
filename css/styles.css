@@ -78,7 +78,7 @@ h1 {
   .egg {
     position: fixed;
     bottom: -110px;
-    left: 55%;
+    left: 50%;
     width: 500px; 
     height: auto; 
   }
@@ -132,7 +132,7 @@ h1 {
   
   .walking {
     position: fixed;
-    top: 325px; 
+    top: 450px; 
     right: 50px; 
     width: 1000px; 
     height: auto;
